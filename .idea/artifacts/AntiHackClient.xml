@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiHackClient">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntiHackClient</output-path>
+    <root id="archive" name="AntiHackClient.jar">
+      <element id="module-output" name="AntiCheat" />
+    </root>
+  </artifact>
+</component>

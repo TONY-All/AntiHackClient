@@ -1,0 +1,5 @@
+name: AntiHackClient
+main: top.minicraft.atc.Anticheat
+author: TONY_All
+description: "A Plugin that Anti Hack Clients Join in game"
+version: 0.1.0
